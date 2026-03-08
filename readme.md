@@ -64,15 +64,20 @@
 
 ## 中文稿（只要中文，建议放在最后一张）
 1. 大家好，我是叶智明。  
-2. 今天我想跟大家分享一条最近的科技新闻：美国 AI 公司 Anthropic 发布了 Claude Sonnet 4.6。  
-3. 官方消息显示，这个版本在 2026 年 2 月 17 日上线，并在 claude.ai 上成为很多免费和付费用户的默认模型。  
-4. Anthropic 说，Sonnet 4.6 的重点是更快、更稳定，而且写代码更好用。  
-5. 它还加强了 “computer use（电脑使用）” 功能。  
-6. 简单来说，AI 可以像人一样在网页或软件里点击、输入，一步一步完成任务。  
-7. 官方还在测试一个 “100 万 token” 的超长输入功能，让模型一次能读很长的内容。  
-8. 这意味着它可以更好地处理长文档，甚至是比较大的代码项目。  
-9. 对我们学计算机的人来说，这可能会帮助我们改代码、找 bug、写小工具，提高效率。  
-10. 总的来说，这条新闻说明：更强的 AI 工具正在变得更普遍，也更容易让大家用上。  
+2. 我是中文三的学生。  
+3. 今天我想分享一条科技新闻。  
+4. 美国 AI 公司 Anthropic 发布了 Claude Sonnet 4.6。  
+5. 这个模型在 2026 年 2 月 17号上线。  
+6. 现在，很多免费和付费用户都可以在 claude.ai 使用它。  
+7. Anthropic 说，这个模型更快、更稳定，也更会写代码。  
+8. 它还有电脑使用功能。  
+9. AI 可以在网页上点击、输入，帮助人做事情。  
+10. Anthropic 也在测试 100 万 token 的长输入功能。  
+11. 这样，AI 可以读更长的文章和更多代码。  
+12. 对学计算机的人来说，这很有用。  
+13. 它可以帮助我们改代码、找 bug、做小工具。  
+14. 总的来说，AI 工具越来越强，也越来越容易用。  
+15. 我说完了。  
 
 ---
 
@@ -85,49 +90,74 @@
 **English：** Hello everyone, I’m Ye Zhiming.
 
 ### 2
-**中文：** 今天我想跟大家分享一条最近的科技新闻：美国 AI 公司 Anthropic 发布了 Claude Sonnet 4.6。  
-**Pinyin：** Jīntiān wǒ xiǎng gēn dàjiā fēnxiǎng yì tiáo zuìjìn de kējì xīnwén: Měiguó AI gōngsī Anthropic fābù le Claude Sonnet 4.6.  
-**English：** Today I want to share a recent tech news story: the U.S. AI company Anthropic released Claude Sonnet 4.6.
+**中文：** 我是中文三的学生。  
+**Pinyin：** Wǒ shì Zhōngwén Sān de xuéshēng.  
+**English：** I am a Chinese 3 student.
 
 ### 3
-**中文：** 官方消息显示，这个版本在 2026 年 2 月 17 日上线，并在 claude.ai 上成为很多免费和付费用户的默认模型。  
-**Pinyin：** Guānfāng xiāoxī xiǎnshì, zhège bǎnběn zài 2026 nián 2 yuè 17 rì shàngxiàn, bìng zài claude.ai shàng chéngwéi hěn duō miǎnfèi hé fùfèi yònghù de mòrèn móxíng.  
-**English：** Official info shows it launched on Feb 17, 2026, and became the default model for many free and paid users on claude.ai.
+**中文：** 今天我想分享一条科技新闻。  
+**Pinyin：** Jīntiān wǒ xiǎng fēnxiǎng yì tiáo kējì xīnwén.  
+**English：** Today I want to share a tech news story.
 
 ### 4
-**中文：** Anthropic 说，Sonnet 4.6 的重点是更快、更稳定，而且写代码更好用。  
-**Pinyin：** Anthropic shuō, Sonnet 4.6 de zhòngdiǎn shì gèng kuài, gèng wěndìng, érqiě xiě dàimǎ gèng hǎo yòng.  
-**English：** Anthropic says the key points are: faster, more stable, and better for coding.
+**中文：** 美国 AI 公司 Anthropic 发布了 Claude Sonnet 4.6。  
+**Pinyin：** Měiguó AI gōngsī Anthropic fābù le Claude Sonnet 4.6.  
+**English：** The U.S. AI company Anthropic released Claude Sonnet 4.6.
 
 ### 5
-**中文：** 它还加强了 “computer use（电脑使用）” 功能。  
-**Pinyin：** Tā hái jiāqiáng le “computer use (diànnǎo shǐyòng)” gōngnéng.  
-**English：** It also improved the “computer use” feature.
+**中文：** 这个模型在 2026 年 2 月 17号上线。  
+**Pinyin：** Zhège móxíng zài 2026 nián 2 yuè 17 hào shàngxiàn.  
+**English：** This model went live on February 17, 2026.
 
 ### 6
-**中文：** 简单来说，AI 可以像人一样在网页或软件里点击、输入，一步一步完成任务。  
-**Pinyin：** Jiǎndān lái shuō, AI kěyǐ xiàng rén yíyàng zài wǎngyè huò ruǎnjiàn lǐ diǎnjī, shū rù, yí bù yí bù wánchéng rènwù.  
-**English：** Simply put, AI can click and type in websites or software like a person and finish tasks step by step.
+**中文：** 现在，很多免费和付费用户都可以在 claude.ai 使用它。  
+**Pinyin：** Xiànzài, hěn duō miǎnfèi hé fùfèi yònghù dōu kěyǐ zài claude.ai shǐyòng tā.  
+**English：** Now many free and paid users can use it on claude.ai.
 
 ### 7
-**中文：** 官方还在测试一个 “100 万 token” 的超长输入功能，让模型一次能读很长的内容。  
-**Pinyin：** Guānfāng hái zài cèshì yí gè “yì bǎi wàn token” de chāo cháng shū rù gōngnéng, ràng móxíng yí cì néng dú hěn cháng de nèiróng.  
-**English：** The company is also testing a “1 million token” extra-long input feature, so the model can read very long content at once.
+**中文：** Anthropic 说，这个模型更快、更稳定，也更会写代码。  
+**Pinyin：** Anthropic shuō, zhège móxíng gèng kuài, gèng wěndìng, yě gèng huì xiě dàimǎ.  
+**English：** Anthropic says this model is faster, more stable, and better at coding.
 
 ### 8
-**中文：** 这意味着它可以更好地处理长文档，甚至是比较大的代码项目。  
-**Pinyin：** Zhè yìwèizhe tā kěyǐ gèng hǎo de chǔlǐ cháng wéndàng, shènzhì shì bǐjiào dà de dàimǎ xiàngmù.  
-**English：** This means it can handle long documents better, and even larger code projects.
+**中文：** 它还有电脑使用功能。  
+**Pinyin：** Tā hái yǒu diànnǎo shǐyòng gōngnéng.  
+**English：** It also has a computer use feature.
 
 ### 9
-**中文：** 对我们学计算机的人来说，这可能会帮助我们改代码、找 bug、写小工具，提高效率。  
-**Pinyin：** Duì wǒmen xué jìsuànjī de rén láishuō, zhè kěnéng huì bāngzhù wǒmen gǎi dàimǎ, zhǎo bug, xiě xiǎo gōngjù, tígāo xiàolǜ.  
-**English：** For CS students, this could help us edit code, find bugs, build small tools, and improve efficiency.
+**中文：** AI 可以在网页上点击、输入，帮助人做事情。  
+**Pinyin：** AI kěyǐ zài wǎngyè shàng diǎnjī, shūrù, bāngzhù rén zuò shìqing.  
+**English：** AI can click and type on webpages to help people do things.
 
 ### 10
-**中文：** 总的来说，这条新闻说明：更强的 AI 工具正在变得更普遍，也更容易让大家用上。  
-**Pinyin：** Zǒng de lái shuō, zhè tiáo xīnwén shuōmíng: gèng qiáng de AI gōngjù zhèngzài biàn de gèng pǔbiàn, yě gèng róngyì ràng dàjiā yòng shàng.  
-**English：** Overall, this news shows that stronger AI tools are becoming more common and easier for more people to use.
+**中文：** Anthropic 也在测试 100 万 token 的长输入功能。  
+**Pinyin：** Anthropic yě zài cèshì yì bǎi wàn token de cháng shūrù gōngnéng.  
+**English：** Anthropic is also testing a 1 million token long-input feature.
+
+### 11
+**中文：** 这样，AI 可以读更长的文章和更多代码。  
+**Pinyin：** Zhèyàng, AI kěyǐ dú gèng cháng de wénzhāng hé gèng duō dàimǎ.  
+**English：** This way, AI can read longer articles and more code.
+
+### 12
+**中文：** 对学计算机的人来说，这很有用。  
+**Pinyin：** Duì xué jìsuànjī de rén láishuō, zhè hěn yǒuyòng.  
+**English：** For people who study computer science, this is very useful.
+
+### 13
+**中文：** 它可以帮助我们改代码、找 bug、做小工具。  
+**Pinyin：** Tā kěyǐ bāngzhù wǒmen gǎi dàimǎ, zhǎo bug, zuò xiǎo gōngjù.  
+**English：** It can help us edit code, find bugs, and make small tools.
+
+### 14
+**中文：** 总的来说，AI 工具越来越强，也越来越容易用。  
+**Pinyin：** Zǒng de lái shuō, AI gōngjù yuèláiyuè qiáng, yě yuèláiyuè róngyì yòng.  
+**English：** Overall, AI tools are getting stronger and easier to use.
+
+### 15
+**中文：** 我说完了。  
+**Pinyin：** Wǒ shuō wán le.  
+**English：** I am finished speaking.
 
 ---
 
