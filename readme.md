@@ -73,7 +73,7 @@
 8. AI 可以在网页上点击、输入，帮助人做事情。  
 9. Anthropic 也在测试一百万 token 的长输入功能。  
 10. 这样，AI 可以读更长的文章和更多代码。  
-11. 对我们学计算机的人来说，它可以帮助我们改代码、找错误、做小工具。  
+11. 对我们学计算机的人来说，它可以帮助我们改代码、找错误、写一些小工具。  
 12. 总的来说，AI 工具越来越强，也越来越容易用。  
 13. 我说完了。  
 
@@ -133,9 +133,9 @@
 **English：** This way, AI can read longer articles and more code.
 
 ### 11
-**中文：** 对我们学计算机的人来说，它可以帮助我们改代码、找错误、做小工具。  
-**Pinyin：** Duì wǒmen xué jìsuànjī de rén láishuō, tā kěyǐ bāngzhù wǒmen gǎi dàimǎ, zhǎo cuòwù, zuò xiǎo gōngjù.  
-**English：** For those of us who study computer science, it can help us edit code, find errors, and make small tools.
+**中文：** 对我们学计算机的人来说，它可以帮助我们改代码、找错误、写一些小工具。  
+**Pinyin：** Duì wǒmen xué jìsuànjī de rén láishuō, tā kěyǐ bāngzhù wǒmen gǎi dàimǎ, zhǎo cuòwù, xiě yìxiē xiǎo gōngjù.  
+**English：** For those of us who study computer science, it can help us edit code, find errors, and write some small tools.
 
 ### 12
 **中文：** 总的来说，AI 工具越来越强，也越来越容易用。  
@@ -160,7 +160,7 @@ Anthropic 说，这个模型更快、更稳定，写代码也更好用。
 AI 可以在网页上点击、输入，帮助人做事情。  
 Anthropic 也在测试一百万 token 的长输入功能。  
 这样，AI 可以读更长的文章和更多代码。  
-对我们学计算机的人来说，它可以帮助我们改代码、找错误、做小工具。  
+对我们学计算机的人来说，它可以帮助我们改代码、找错误、写一些小工具。  
 总的来说，AI 工具越来越强，也越来越容易用。  
 我说完了。  
 
